@@ -8,4 +8,4 @@ I'm a Robot Architect who is passionate about making awesome cool robots technol
 
 ## Find me around the web 🌎: <a href="https://github.com/xdaco"><img align="left" width="200" height="250" src="https://github.com/xdaco/xdaco/blob/master/penguine-giphy.gif?raw=true"></a>
 - Twitter <a href="https://twitter.com/xdaco_">Twitter</a> 📹 ✍🏾
-- Xda-developers with interactions on <a href="https://forum.xda-developers.com/member.php?u=4149089"> xda-developers</a> 🏓
+- Xda-developers <a href="https://forum.xda-developers.com/member.php?u=4149089"> xda-developers</a> 🏓
